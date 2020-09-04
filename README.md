@@ -1,2 +1,2 @@
 # eloquent-javascript
-Exercises and projects for Eloquent JavaScript (3rd ed) by Marijn Haverbeke
+Exercises and projects for [Eloquent JavaScript (3rd ed)](https://eloquentjavascript.net/) by Marijn Haverbeke
